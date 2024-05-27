@@ -1,0 +1,74 @@
+body {
+  background-image: url(http://clipart-library.com/images/AibrgAnbT.jpg);
+}
+
+h1 {
+  font-family: Berkshire Swash;
+  text-align: center;
+  color: black;
+}
+.tilden-img {
+  border: solid;
+  border-radius: 50%;
+}
+
+.q-font {
+  font-family: Cinzel;
+  text-align: center;
+}
+
+.p-font {
+  font-family: Roboto;
+  color: black;
+  text-align: left;
+  line-height: 100%;
+}
+
+.h-font {
+  font-family: Volkhorn SC;
+}
+
+div img {
+  float: right;
+  width: 300px;
+  height: 200px;
+  display: block;
+  margin-right: 60px;
+  margin-top: -80px;
+}
+ul {
+  font-size: 18px;
+  color: black;
+}
+
+a {
+  color: #de7104;
+}
+
+#img3 {
+  align: left;
+  margin-top: 0px;
+}
+
+#sepcolor{
+  color:#de3b04;
+}
+
+
+.back-to-top {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+  background: linear-gradient(to right, #DAA520, #808080);
+  transition: background 0.3s ease;
+}
+
+.back-to-top:hover {
+  background: linear-gradient(to right, #DAA520, #A9A9A9);
+}
